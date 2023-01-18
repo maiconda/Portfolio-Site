@@ -30,5 +30,3 @@ O projeto em questão se trata de um portfólio em formato de WebSite, com o obj
 ## Autor
 
 Maicon de Oliveira da Silva
-
-https://www.linkedin.com/in/wmazoni
