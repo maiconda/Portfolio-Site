@@ -16,9 +16,6 @@ O projeto em questão se trata de um portfólio em formato de WebSite, com o obj
 <img src="img/DESKTOP4.PNG" width="700px"/>
 <img src="img/DESKTOP5.PNG" width="700px"/>
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
-
 ## Tecnologias utilizadas
 
 ### Front-End
