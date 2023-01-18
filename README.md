@@ -33,6 +33,8 @@ O projeto em questão se trata de um portfólio em formato de WebSite, com o obj
 
 ◾ ScrollRevealjs.org
 
+◾️ vincentgarreau.com/particles.js
+
 ◾️ FormSubmit.co
 
 ## Autor
