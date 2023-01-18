@@ -6,6 +6,8 @@ O projeto em questão se trata de um portfólio em formato de WebSite, com o obj
 
 É possível acessar a página a partir do botão a seguir.
 
+[![Blog](https://img.shields.io/badge/Portfolio_Maicon-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfoliomaicon.netlify.app/)
+
 ## Layout Mobile
 <img src="img/MOBILE1.PNG" width="250px"/><img src="img/MOBILE2.PNG" width="250px"/><img src="img/MOBILE3.PNG" width="250px"/><img src="img/MOBILE4.PNG" width="250px"/><img src="img/MOBILE5.PNG" width="250px"/><img src="img/MOBILE6.PNG" width="250px"/>
 
@@ -30,3 +32,5 @@ O projeto em questão se trata de um portfólio em formato de WebSite, com o obj
 ## Autor
 
 Maicon de Oliveira da Silva
+
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicon-de-oliveira-da-silva-b60693249/)
