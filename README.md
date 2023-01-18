@@ -21,16 +21,22 @@ O projeto em questão se trata de um portfólio em formato de WebSite, com o obj
 ## Tecnologias utilizadas
 
 ### Front-End
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
+◾️ HTML
+
+◾ CSS
+
+◾️ JavaScript
+
+◾️ Bootstrap
+
 ### Ferramentas Externas
--ScrollRevealjs.org
--FormSubmit.co
+
+◾ ScrollRevealjs.org
+
+◾️ FormSubmit.co
 
 ## Autor
 
-Maicon de Oliveira da Silva
+◾️ Maicon de Oliveira da Silva
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicon-de-oliveira-da-silva-b60693249/)
