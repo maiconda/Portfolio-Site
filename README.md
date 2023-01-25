@@ -1,5 +1,7 @@
 # Portfólio - Maicon da Silva - Desenvolvedor Front-End
 
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/111695088/214575698-24a3a460-6499-436c-b92a-131625b411f8.gif)
+
 ## Sobre o projeto
 
 O projeto em questão se trata de um portfólio em formato de WebSite, com o objetivo de apresentar meu trabalho como desenvolvedor Front-End, contendo alguns projetos desenvolvidos, experiências profissionais e habilidades na área da tecnologia. 
