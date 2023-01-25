@@ -1,6 +1,6 @@
 # Portfólio - Maicon da Silva - Desenvolvedor Front-End
 
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/111695088/214575698-24a3a460-6499-436c-b92a-131625b411f8.gif)
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/111695088/214590697-247a5796-3436-44e5-a8a8-47c5e4ecb938.gif)
 
 ## Sobre o projeto
 
