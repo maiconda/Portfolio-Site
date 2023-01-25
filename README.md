@@ -21,13 +21,13 @@ O projeto em questão se trata de um portfólio em formato de WebSite, com o obj
 ## Tecnologias utilizadas
 
 ### Front-End
-◾️ HTML
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-◾ CSS
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
-◾️ JavaScript
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-◾️ Bootstrap
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Ferramentas Externas
 
@@ -41,4 +41,4 @@ O projeto em questão se trata de um portfólio em formato de WebSite, com o obj
 
 ◾️ Maicon de Oliveira da Silva
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicon-de-oliveira-da-silva-b60693249/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicon-de-oliveira-da-silva-b60693249/)
